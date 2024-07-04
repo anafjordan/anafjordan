@@ -1,6 +1,6 @@
 ## Hi there ☘
-Estou estudando na Alura
-Estou me desenvolvendo na linguagem JavaScript
+Estou estudando na Alura;
+Estou me desenvolvendo na linguagem JavaScript.
 <!--
 **anafjordan/anafjordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
